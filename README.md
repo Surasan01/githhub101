@@ -1,10 +1,10 @@
 # githhub101
-เรียนครั้งแรก
+agaga
 101
 
 # Hello world
 
-
+ทำได้สัม้บ
 # Project Title
 
 A brief description of what this project does and who it's for
